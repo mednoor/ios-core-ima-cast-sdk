@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name	= 'OoyalaIMASDK'
-s.version	= '4.46.1'
+s.version	= '4.46.2'
 s.summary	= 'OoyalaIMASDK'
 s.homepage	= 'https://help-ooyala.brightcove.com/video-platform/concepts/chapter_sdk_ios.html'
 
