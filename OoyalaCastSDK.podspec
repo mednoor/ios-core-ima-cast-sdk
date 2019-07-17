@@ -5,7 +5,10 @@ s.version	= "4.46.2"
 s.summary	= "OoyalaCastSDK"
 s.homepage	= "https://help-ooyala.brightcove.com/video-platform/concepts/chapter_sdk_ios.html"
 
-s.license	= { :type => "Commercial", :file => "LICENSE.md" }
+s.license	= { :type => "Commercial", :text => <<-LICENSE
+                 Copyright © 2019 Brightcove, Inc. All rights reserved.
+                 LICENSE
+                }
 
 s.author	= { "Ooyala Playback Mobile" => "playback-app@ooyala.com" }
 
