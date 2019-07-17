@@ -21,4 +21,5 @@ pod 'OoyalaCastSDK'
 
 # Requirements
 iOS 9.0+
+
 tvOS 9.0+ (for `OoyalaSDK-tvOS`)
