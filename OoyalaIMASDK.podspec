@@ -19,6 +19,6 @@ s.source	= { :git => 'https://github.com/ooyala/ios-core-ima-cast-sdk.git', :tag
 s.vendored_frameworks	= 'OoyalaIMASDK-iOS/OoyalaIMASDK.framework'
 
 s.dependency 'OoyalaSDK', '~> 4.47.0'
-s.dependency 'GoogleAds-IMA-iOS-SDK', '~> 3.9.2'	
+s.dependency 'GoogleAds-IMA-iOS-SDK', '~> 3.13.0'	
   
 end
